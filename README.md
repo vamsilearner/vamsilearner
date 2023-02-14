@@ -1,7 +1,5 @@
 ### Hi there, I'm Vamsi 👋
 
-[![Twitter Follow]](https://twitter.com/vamsi_NBharath)
-
 ## I'm a Frontend engineer, a Web developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -30,10 +28,6 @@
 
 <br />
 <br />
-
----
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kpachhai&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
 [twitter]: https://twitter.com/vamsi_NBharath
 [linkedin]: https://www.linkedin.com/in/vkp1998/
