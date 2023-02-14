@@ -1,6 +1,6 @@
 ### Hi there, I'm Vamsi 👋
 
-[![Twitter Follow](https://twitter.com/vamsi_NBharath)
+[![Twitter Follow]](https://twitter.com/vamsi_NBharath)
 
 ## I'm a Frontend engineer, a Web developer!!
 
