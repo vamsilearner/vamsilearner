@@ -30,4 +30,4 @@
 <br />
 
 [twitter]: https://twitter.com/vamsi_NBharath
-[linkedin]: https://www.linkedin.com/in/vkp1998/
+[linkedin]: https://www.linkedin.com/in/vkp1998
